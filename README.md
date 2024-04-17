@@ -11,6 +11,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 [![CHACHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckaudwn1685&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 
+-----
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
