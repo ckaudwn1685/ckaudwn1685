@@ -12,7 +12,7 @@
 <br>
 <h3 align="center"> About Me </h3>
 <p align="center">
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cha_m_y_/?hl=ko"/></a>&nbsp
+  <a href="https://www.instagram.com/cha_m_y_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cha_m_y_/?hl=ko"/></a>&nbsp
   <a href="mailto:ckaudwn88611685@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckaudwn88611685@gmail.com"/></a>
 </p>
 <br><br>
